@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="3000" height="1000" alt="github readme banner" src="https://github.com/user-attachments/assets/10873d39-7abc-43d5-8b77-709ea6549a44" />
 
 <!--
 **Kanzoonrkz/Kanzoonrkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
